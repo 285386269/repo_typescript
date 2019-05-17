@@ -1,0 +1,6 @@
+@charset "utf-8"; /* 指定样式表中使用的字符编码 */
+.main_css{
+    width: 200px;
+    height:200px;
+    background: #ff0000;
+}
